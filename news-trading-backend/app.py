@@ -13,7 +13,9 @@ app.config['JWT_SECRET_KEY'] = 'very_secret_key'  # Change this to a more secure
 # Initialize Flask extensions
 mongo = PyMongo(app)
 bcrypt = Bcrypt(app)
-jwt = JWTManager(app)
+jwt = JWTManager(app)  
+
+
 
 # User Registration Endpoint
 @app.route('/register', methods=['POST'])
