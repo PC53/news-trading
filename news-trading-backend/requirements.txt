@@ -1,0 +1,8 @@
+flask
+flask-pymongo
+flask-bcrypt
+flask-jwt-extended
+pymongo[srv]
+requests
+beautifulsoup4
+apscheduler
