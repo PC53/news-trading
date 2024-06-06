@@ -1,7 +1,8 @@
 
 # News Trading Application 
 
-![Screenshot 2024-05-25 152209](https://github.com/PC53/news-trading/assets/56227421/84998288-ad9d-44fe-beea-1628522a0935)
+![image](https://github.com/PC53/news-trading/assets/56227421/61edcb8b-54d4-43f6-a34f-b8057564fde1)
+
 
 
 ## Project Structure
