@@ -6,3 +6,8 @@ pymongo[srv]
 requests
 beautifulsoup4
 apscheduler
+pandas
+json
+datetime
+urllib
+flask-cors

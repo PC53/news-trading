@@ -2,3 +2,13 @@ requests
 beautifulsoup4
 pymongo
 apscheduler
+newspaper3k
+pandas 
+nltk
+yfinance
+vaderSentiment
+datetime
+time
+csv
+json
+urllib

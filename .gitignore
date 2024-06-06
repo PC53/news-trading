@@ -1,1 +1,4 @@
-env/*
+news-trading-backend/env/
+news-trading-frontend/.next/
+news-trading-frontend/node_modules/
+
